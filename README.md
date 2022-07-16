@@ -2,7 +2,7 @@
 
 ### Click on the Deploy Button Below
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/notabhixhek/JackettX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mohitjoshi155/jacketin)
 
 ### OR Via CLI
 

@@ -2,7 +2,7 @@
   "Port": 9117,
   "AllowExternal": true,
   "APIKey": "7nc0md57gsxhrgahymjcx7mz6v6lhi2h",
-  "AdminPassword": alkaimist,
+  "AdminPassword": "alchemist",
   "InstanceId": "n4gvy24matsgmmrzu6089z22uqnbqkbq4v3k0cknkfuynqz7ywawrgf7g56ksd6d",
   "BlackholeDir": null,
   "UpdateDisabled": false,
